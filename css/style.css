@@ -34,3 +34,9 @@ b {
    margin:0 auto;
    max-width:700px;
 }
+
+#copyright {
+   text-align:right;
+   padding-top:5px;
+   margin-bottom:0px;
+}
