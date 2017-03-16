@@ -1,0 +1,36 @@
+body {
+  margin-top:60px;
+}
+
+.title, .subtitle {
+   font-family: Arial, Verdana, sans-serif;
+}
+
+.main-content {
+   font-family:Times, Georgia, serif;
+   color:black;
+   background-color:#F8D1B3;
+}
+
+b {
+   font-family:Arial, Verdana, sans-serif;
+}
+
+.figure {
+   margin:0 auto;
+   max-width:680px;
+   background-color:white;
+   padding:0;
+   padding-top:5px;
+}
+
+#timeline ul {
+   margin:0 auto;
+   max-width:700px;
+}
+
+#wiki {
+   padding-top:20px;
+   margin:0 auto;
+   max-width:700px;
+}
